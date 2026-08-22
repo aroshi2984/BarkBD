@@ -1,0 +1,186 @@
+[
+  {
+    "label": "0",
+    "precision": 0.9689922480620154,
+    "recall": 0.9765625,
+    "f1-score": 0.9727626459143969,
+    "support": 128.0,
+    "accuracy": null
+  },
+  {
+    "label": "1",
+    "precision": 0.9477611940298507,
+    "recall": 0.927007299270073,
+    "f1-score": 0.9372693726937269,
+    "support": 137.0,
+    "accuracy": null
+  },
+  {
+    "label": "10",
+    "precision": 0.9908256880733946,
+    "recall": 0.9818181818181818,
+    "f1-score": 0.9863013698630136,
+    "support": 110.0,
+    "accuracy": null
+  },
+  {
+    "label": "11",
+    "precision": 0.9888888888888889,
+    "recall": 0.978021978021978,
+    "f1-score": 0.9834254143646409,
+    "support": 91.0,
+    "accuracy": null
+  },
+  {
+    "label": "12",
+    "precision": 0.956989247311828,
+    "recall": 0.8557692307692307,
+    "f1-score": 0.9035532994923858,
+    "support": 104.0,
+    "accuracy": null
+  },
+  {
+    "label": "13",
+    "precision": 0.9239130434782609,
+    "recall": 0.9659090909090909,
+    "f1-score": 0.9444444444444444,
+    "support": 88.0,
+    "accuracy": null
+  },
+  {
+    "label": "14",
+    "precision": 0.9876543209876543,
+    "recall": 0.975609756097561,
+    "f1-score": 0.9815950920245399,
+    "support": 82.0,
+    "accuracy": null
+  },
+  {
+    "label": "15",
+    "precision": 0.9777777777777777,
+    "recall": 0.9565217391304348,
+    "f1-score": 0.967032967032967,
+    "support": 92.0,
+    "accuracy": null
+  },
+  {
+    "label": "16",
+    "precision": 0.95,
+    "recall": 1.0,
+    "f1-score": 0.9743589743589743,
+    "support": 38.0,
+    "accuracy": null
+  },
+  {
+    "label": "17",
+    "precision": 0.8956521739130435,
+    "recall": 0.944954128440367,
+    "f1-score": 0.9196428571428571,
+    "support": 109.0,
+    "accuracy": null
+  },
+  {
+    "label": "18",
+    "precision": 1.0,
+    "recall": 0.9864864864864865,
+    "f1-score": 0.9931972789115646,
+    "support": 74.0,
+    "accuracy": null
+  },
+  {
+    "label": "19",
+    "precision": 0.989010989010989,
+    "recall": 0.989010989010989,
+    "f1-score": 0.989010989010989,
+    "support": 91.0,
+    "accuracy": null
+  },
+  {
+    "label": "2",
+    "precision": 0.9573170731707317,
+    "recall": 0.9631901840490797,
+    "f1-score": 0.9602446483180428,
+    "support": 163.0,
+    "accuracy": null
+  },
+  {
+    "label": "3",
+    "precision": 0.9951923076923077,
+    "recall": 0.9904306220095693,
+    "f1-score": 0.9928057553956835,
+    "support": 209.0,
+    "accuracy": null
+  },
+  {
+    "label": "4",
+    "precision": 0.9626865671641791,
+    "recall": 0.9847328244274809,
+    "f1-score": 0.9735849056603774,
+    "support": 131.0,
+    "accuracy": null
+  },
+  {
+    "label": "5",
+    "precision": 0.9722222222222222,
+    "recall": 0.9859154929577465,
+    "f1-score": 0.9790209790209791,
+    "support": 142.0,
+    "accuracy": null
+  },
+  {
+    "label": "6",
+    "precision": 0.9565217391304348,
+    "recall": 0.9887640449438202,
+    "f1-score": 0.9723756906077348,
+    "support": 89.0,
+    "accuracy": null
+  },
+  {
+    "label": "7",
+    "precision": 0.9649122807017544,
+    "recall": 0.9649122807017544,
+    "f1-score": 0.9649122807017544,
+    "support": 57.0,
+    "accuracy": null
+  },
+  {
+    "label": "8",
+    "precision": 0.984,
+    "recall": 0.984,
+    "f1-score": 0.984,
+    "support": 125.0,
+    "accuracy": null
+  },
+  {
+    "label": "9",
+    "precision": 0.9886363636363636,
+    "recall": 0.9775280898876404,
+    "f1-score": 0.9830508474576272,
+    "support": 89.0,
+    "accuracy": null
+  },
+  {
+    "label": "accuracy",
+    "precision": null,
+    "recall": null,
+    "f1-score": null,
+    "support": null,
+    "accuracy": 0.9683573755234993
+  },
+  {
+    "label": "macro avg",
+    "precision": 0.9679477062625848,
+    "recall": 0.9688572459465743,
+    "f1-score": 0.9681294906208351,
+    "support": 2149.0,
+    "accuracy": null
+  },
+  {
+    "label": "weighted avg",
+    "precision": 0.9686733245813876,
+    "recall": 0.9683573755234993,
+    "f1-score": 0.96827176644815,
+    "support": 2149.0,
+    "accuracy": null
+  }
+]

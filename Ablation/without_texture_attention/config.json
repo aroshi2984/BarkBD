@@ -1,0 +1,34 @@
+{
+  "variant": "without_texture_attention",
+  "description": "All texture_attention_module blocks replaced by identity",
+  "config_hash": "531c5a4949880a1c",
+  "flags": {
+    "use_texture_attention": false,
+    "use_bark_pattern": true,
+    "use_color_module": true,
+    "use_dual_pooling": true,
+    "use_mixup": true
+  },
+  "training_config": {
+    "seed": 42,
+    "image_size": 224,
+    "batch_size": 32,
+    "epochs": 300,
+    "warmup_epochs": 5,
+    "optimizer": "Adam",
+    "lr_schedule": "linear-warmup + cosine-decay",
+    "base_learning_rate": 0.001,
+    "min_learning_rate": 1e-06,
+    "loss": "categorical_crossentropy",
+    "label_smoothing": 0.05,
+    "metrics": [
+      "accuracy"
+    ],
+    "early_stopping_enabled": true,
+    "early_stopping_monitor": "val_accuracy",
+    "early_stopping_patience": 40,
+    "early_stopping_start_from_epoch": 260,
+    "input_pipeline": "bark5-parity: cache after batching (frozen batch composition)",
+    "model_selection_for_test": "best_val_accuracy"
+  }
+}

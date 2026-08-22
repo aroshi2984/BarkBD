@@ -1,0 +1,12 @@
+\begin{tabular}{lrrrr}
+\toprule
+variant & parameter\_count & test\_accuracy & delta\_test\_accuracy & weighted\_f1 \\
+\midrule
+full\_model & 2967228 & 0.9595 & 0.0000 & 0.9597 \\
+without\_texture\_attention & 2917254 & 0.9591 & -0.0005 & 0.9591 \\
+without\_color\_module & 2738334 & 0.9618 & 0.0023 & 0.9619 \\
+without\_bark\_pattern\_convs & 1436004 & 0.9628 & 0.0033 & 0.9625 \\
+without\_mixup\_cutmix & 2967228 & 0.9684 & 0.0088 & 0.9683 \\
+without\_dual\_pooling & 2819772 & 0.9679 & 0.0084 & 0.9679 \\
+\bottomrule
+\end{tabular}

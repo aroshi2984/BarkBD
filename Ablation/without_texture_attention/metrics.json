@@ -1,0 +1,31 @@
+[
+  {
+    "variant": "without_texture_attention",
+    "description": "All texture_attention_module blocks replaced by identity",
+    "status": "completed",
+    "config_hash": "531c5a4949880a1c",
+    "started_utc": "2026-08-11T23:19:44.850071+00:00",
+    "completed_utc": "2026-08-12T04:35:37.093653+00:00",
+    "elapsed_seconds": 18929.157138034996,
+    "epochs_completed": 300,
+    "parameter_count": 2917254,
+    "trainable_parameter_count": 2907982,
+    "best_train_loss": 0.8392130136489868,
+    "best_train_accuracy": 0.9421321749687195,
+    "best_val_loss": 0.5699713230133057,
+    "best_val_accuracy": 0.9658559560775757,
+    "best_val_accuracy_epoch": 234,
+    "planned_epochs": 300,
+    "ran_full_schedule": true,
+    "stopped_on_time_budget": false,
+    "test_loss": 0.5816776752471924,
+    "test_accuracy": 0.959050721265705,
+    "weighted_precision": 0.9603544985573661,
+    "weighted_recall": 0.959050721265705,
+    "weighted_f1": 0.9590713165712826,
+    "macro_precision": 0.9589093639157305,
+    "macro_recall": 0.960151058488304,
+    "macro_f1": 0.9588310592193332,
+    "num_test_samples": 2149
+  }
+]

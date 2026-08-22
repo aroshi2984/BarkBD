@@ -1,0 +1,31 @@
+[
+  {
+    "variant": "full_model",
+    "description": "All components enabled (baseline reference row)",
+    "status": "completed",
+    "config_hash": "bae6433e95521605",
+    "started_utc": "2026-08-11T18:09:59.129505+00:00",
+    "completed_utc": "2026-08-11T23:19:40.779687+00:00",
+    "elapsed_seconds": 18549.051014303,
+    "epochs_completed": 300,
+    "parameter_count": 2967228,
+    "trainable_parameter_count": 2957956,
+    "best_train_loss": 0.8396209478378296,
+    "best_train_accuracy": 0.9464446902275085,
+    "best_val_loss": 0.5650594830513,
+    "best_val_accuracy": 0.9672591090202332,
+    "best_val_accuracy_epoch": 269,
+    "planned_epochs": 300,
+    "ran_full_schedule": true,
+    "stopped_on_time_budget": false,
+    "test_loss": 0.5746817588806152,
+    "test_accuracy": 0.9595160539785947,
+    "weighted_precision": 0.9614702893043511,
+    "weighted_recall": 0.9595160539785947,
+    "weighted_f1": 0.9597232805678381,
+    "macro_precision": 0.9584313453589051,
+    "macro_recall": 0.9607192544741986,
+    "macro_f1": 0.9584877484847866,
+    "num_test_samples": 2149
+  }
+]

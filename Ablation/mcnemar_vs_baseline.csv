@@ -1,0 +1,6 @@
+variant,baseline_only_correct_b,variant_only_correct_c,discordant_n,net_images,p_value,significant_p<0.05
+without_dual_pooling,23,41,64,18,0.0327657590988232,True
+without_mixup_cutmix,27,46,73,19,0.034415913668175036,True
+without_bark_pattern_convs,35,42,77,7,0.49438227369550003,False
+without_color_module,36,41,77,5,0.6487911623106449,False
+without_texture_attention,41,40,81,-1,1.0,False

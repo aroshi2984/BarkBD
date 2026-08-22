@@ -1,0 +1,31 @@
+[
+  {
+    "variant": "without_bark_pattern_convs",
+    "description": "Dilated/anisotropic bark-pattern branches removed from every inception module",
+    "status": "completed",
+    "config_hash": "51de75e284db0e99",
+    "started_utc": "2026-08-11T22:48:30.703994+00:00",
+    "completed_utc": "2026-08-12T03:28:43.737368+00:00",
+    "elapsed_seconds": 16791.748088692002,
+    "epochs_completed": 300,
+    "parameter_count": 1436004,
+    "trainable_parameter_count": 1428892,
+    "best_train_loss": 0.8930264711380005,
+    "best_train_accuracy": 0.9356132745742798,
+    "best_val_loss": 0.566329836845398,
+    "best_val_accuracy": 0.9686623215675354,
+    "best_val_accuracy_epoch": 222,
+    "planned_epochs": 300,
+    "ran_full_schedule": true,
+    "stopped_on_time_budget": false,
+    "test_loss": 0.5814728140830994,
+    "test_accuracy": 0.9627733829688228,
+    "weighted_precision": 0.9638759192684508,
+    "weighted_recall": 0.9627733829688228,
+    "weighted_f1": 0.9625446058439366,
+    "macro_precision": 0.9660076892522158,
+    "macro_recall": 0.9625481134064067,
+    "macro_f1": 0.9634904216680882,
+    "num_test_samples": 2149
+  }
+]

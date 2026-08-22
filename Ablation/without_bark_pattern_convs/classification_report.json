@@ -1,0 +1,186 @@
+[
+  {
+    "label": "0",
+    "precision": 0.9477611940298507,
+    "recall": 0.9921875,
+    "f1-score": 0.9694656488549618,
+    "support": 128.0,
+    "accuracy": null
+  },
+  {
+    "label": "1",
+    "precision": 0.9051094890510949,
+    "recall": 0.9051094890510949,
+    "f1-score": 0.9051094890510949,
+    "support": 137.0,
+    "accuracy": null
+  },
+  {
+    "label": "10",
+    "precision": 0.9553571428571429,
+    "recall": 0.9727272727272728,
+    "f1-score": 0.963963963963964,
+    "support": 110.0,
+    "accuracy": null
+  },
+  {
+    "label": "11",
+    "precision": 0.9666666666666667,
+    "recall": 0.9560439560439561,
+    "f1-score": 0.9613259668508287,
+    "support": 91.0,
+    "accuracy": null
+  },
+  {
+    "label": "12",
+    "precision": 1.0,
+    "recall": 0.7980769230769231,
+    "f1-score": 0.8877005347593583,
+    "support": 104.0,
+    "accuracy": null
+  },
+  {
+    "label": "13",
+    "precision": 0.9222222222222223,
+    "recall": 0.9431818181818182,
+    "f1-score": 0.9325842696629213,
+    "support": 88.0,
+    "accuracy": null
+  },
+  {
+    "label": "14",
+    "precision": 0.9878048780487805,
+    "recall": 0.9878048780487805,
+    "f1-score": 0.9878048780487805,
+    "support": 82.0,
+    "accuracy": null
+  },
+  {
+    "label": "15",
+    "precision": 0.978494623655914,
+    "recall": 0.9891304347826086,
+    "f1-score": 0.9837837837837838,
+    "support": 92.0,
+    "accuracy": null
+  },
+  {
+    "label": "16",
+    "precision": 0.9743589743589743,
+    "recall": 1.0,
+    "f1-score": 0.987012987012987,
+    "support": 38.0,
+    "accuracy": null
+  },
+  {
+    "label": "17",
+    "precision": 0.8823529411764706,
+    "recall": 0.963302752293578,
+    "f1-score": 0.9210526315789473,
+    "support": 109.0,
+    "accuracy": null
+  },
+  {
+    "label": "18",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 74.0,
+    "accuracy": null
+  },
+  {
+    "label": "19",
+    "precision": 1.0,
+    "recall": 0.989010989010989,
+    "f1-score": 0.994475138121547,
+    "support": 91.0,
+    "accuracy": null
+  },
+  {
+    "label": "2",
+    "precision": 0.9298245614035088,
+    "recall": 0.9754601226993865,
+    "f1-score": 0.9520958083832335,
+    "support": 163.0,
+    "accuracy": null
+  },
+  {
+    "label": "3",
+    "precision": 0.981042654028436,
+    "recall": 0.9904306220095693,
+    "f1-score": 0.9857142857142858,
+    "support": 209.0,
+    "accuracy": null
+  },
+  {
+    "label": "4",
+    "precision": 0.9552238805970149,
+    "recall": 0.9770992366412213,
+    "f1-score": 0.9660377358490566,
+    "support": 131.0,
+    "accuracy": null
+  },
+  {
+    "label": "5",
+    "precision": 0.9929078014184397,
+    "recall": 0.9859154929577465,
+    "f1-score": 0.9893992932862191,
+    "support": 142.0,
+    "accuracy": null
+  },
+  {
+    "label": "6",
+    "precision": 0.9885057471264368,
+    "recall": 0.9662921348314607,
+    "f1-score": 0.9772727272727273,
+    "support": 89.0,
+    "accuracy": null
+  },
+  {
+    "label": "7",
+    "precision": 0.9642857142857143,
+    "recall": 0.9473684210526315,
+    "f1-score": 0.9557522123893806,
+    "support": 57.0,
+    "accuracy": null
+  },
+  {
+    "label": "8",
+    "precision": 1.0,
+    "recall": 0.968,
+    "f1-score": 0.983739837398374,
+    "support": 125.0,
+    "accuracy": null
+  },
+  {
+    "label": "9",
+    "precision": 0.9882352941176471,
+    "recall": 0.9438202247191011,
+    "f1-score": 0.9655172413793104,
+    "support": 89.0,
+    "accuracy": null
+  },
+  {
+    "label": "accuracy",
+    "precision": null,
+    "recall": null,
+    "f1-score": null,
+    "support": null,
+    "accuracy": 0.9627733829688228
+  },
+  {
+    "label": "macro avg",
+    "precision": 0.9660076892522158,
+    "recall": 0.9625481134064067,
+    "f1-score": 0.9634904216680882,
+    "support": 2149.0,
+    "accuracy": null
+  },
+  {
+    "label": "weighted avg",
+    "precision": 0.9638759192684508,
+    "recall": 0.9627733829688228,
+    "f1-score": 0.9625446058439366,
+    "support": 2149.0,
+    "accuracy": null
+  }
+]

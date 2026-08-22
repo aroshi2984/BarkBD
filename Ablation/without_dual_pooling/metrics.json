@@ -1,0 +1,31 @@
+[
+  {
+    "variant": "without_dual_pooling",
+    "description": "Head uses GlobalAveragePooling only (GlobalMaxPooling branch removed)",
+    "status": "completed",
+    "config_hash": "3a9f5fce66b4c41f",
+    "started_utc": "2026-08-11T22:34:46.587857+00:00",
+    "completed_utc": "2026-08-12T03:23:13.040547+00:00",
+    "elapsed_seconds": 17280.331440321002,
+    "epochs_completed": 300,
+    "parameter_count": 2819772,
+    "trainable_parameter_count": 2810500,
+    "best_train_loss": 0.8531453013420105,
+    "best_train_accuracy": 0.9394243359565735,
+    "best_val_loss": 0.5591015815734863,
+    "best_val_accuracy": 0.9695977568626404,
+    "best_val_accuracy_epoch": 264,
+    "planned_epochs": 300,
+    "ran_full_schedule": true,
+    "stopped_on_time_budget": false,
+    "test_loss": 0.5578056573867798,
+    "test_accuracy": 0.9678920428106096,
+    "weighted_precision": 0.9686783176740028,
+    "weighted_recall": 0.9678920428106096,
+    "weighted_f1": 0.9679032925905976,
+    "macro_precision": 0.9689166209762075,
+    "macro_recall": 0.9687680446014314,
+    "macro_f1": 0.9684153766410525,
+    "num_test_samples": 2149
+  }
+]

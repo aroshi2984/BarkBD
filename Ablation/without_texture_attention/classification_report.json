@@ -1,0 +1,186 @@
+[
+  {
+    "label": "0",
+    "precision": 0.9615384615384616,
+    "recall": 0.9765625,
+    "f1-score": 0.9689922480620154,
+    "support": 128.0,
+    "accuracy": null
+  },
+  {
+    "label": "1",
+    "precision": 0.8581081081081081,
+    "recall": 0.927007299270073,
+    "f1-score": 0.8912280701754386,
+    "support": 137.0,
+    "accuracy": null
+  },
+  {
+    "label": "10",
+    "precision": 0.963963963963964,
+    "recall": 0.9727272727272728,
+    "f1-score": 0.9683257918552036,
+    "support": 110.0,
+    "accuracy": null
+  },
+  {
+    "label": "11",
+    "precision": 0.956989247311828,
+    "recall": 0.978021978021978,
+    "f1-score": 0.967391304347826,
+    "support": 91.0,
+    "accuracy": null
+  },
+  {
+    "label": "12",
+    "precision": 0.9659090909090909,
+    "recall": 0.8173076923076923,
+    "f1-score": 0.8854166666666666,
+    "support": 104.0,
+    "accuracy": null
+  },
+  {
+    "label": "13",
+    "precision": 0.9032258064516129,
+    "recall": 0.9545454545454546,
+    "f1-score": 0.9281767955801105,
+    "support": 88.0,
+    "accuracy": null
+  },
+  {
+    "label": "14",
+    "precision": 0.975,
+    "recall": 0.9512195121951219,
+    "f1-score": 0.9629629629629629,
+    "support": 82.0,
+    "accuracy": null
+  },
+  {
+    "label": "15",
+    "precision": 0.9886363636363636,
+    "recall": 0.9456521739130435,
+    "f1-score": 0.9666666666666667,
+    "support": 92.0,
+    "accuracy": null
+  },
+  {
+    "label": "16",
+    "precision": 0.9047619047619048,
+    "recall": 1.0,
+    "f1-score": 0.95,
+    "support": 38.0,
+    "accuracy": null
+  },
+  {
+    "label": "17",
+    "precision": 0.8974358974358975,
+    "recall": 0.963302752293578,
+    "f1-score": 0.9292035398230089,
+    "support": 109.0,
+    "accuracy": null
+  },
+  {
+    "label": "18",
+    "precision": 1.0,
+    "recall": 0.9864864864864865,
+    "f1-score": 0.9931972789115646,
+    "support": 74.0,
+    "accuracy": null
+  },
+  {
+    "label": "19",
+    "precision": 0.978021978021978,
+    "recall": 0.978021978021978,
+    "f1-score": 0.978021978021978,
+    "support": 91.0,
+    "accuracy": null
+  },
+  {
+    "label": "2",
+    "precision": 0.9743589743589743,
+    "recall": 0.9325153374233128,
+    "f1-score": 0.9529780564263323,
+    "support": 163.0,
+    "accuracy": null
+  },
+  {
+    "label": "3",
+    "precision": 0.9808612440191388,
+    "recall": 0.9808612440191388,
+    "f1-score": 0.9808612440191388,
+    "support": 209.0,
+    "accuracy": null
+  },
+  {
+    "label": "4",
+    "precision": 0.9624060150375939,
+    "recall": 0.9770992366412213,
+    "f1-score": 0.9696969696969697,
+    "support": 131.0,
+    "accuracy": null
+  },
+  {
+    "label": "5",
+    "precision": 0.986013986013986,
+    "recall": 0.9929577464788732,
+    "f1-score": 0.9894736842105263,
+    "support": 142.0,
+    "accuracy": null
+  },
+  {
+    "label": "6",
+    "precision": 0.9560439560439561,
+    "recall": 0.9775280898876404,
+    "f1-score": 0.9666666666666667,
+    "support": 89.0,
+    "accuracy": null
+  },
+  {
+    "label": "7",
+    "precision": 0.9649122807017544,
+    "recall": 0.9649122807017544,
+    "f1-score": 0.9649122807017544,
+    "support": 57.0,
+    "accuracy": null
+  },
+  {
+    "label": "8",
+    "precision": 1.0,
+    "recall": 0.96,
+    "f1-score": 0.9795918367346939,
+    "support": 125.0,
+    "accuracy": null
+  },
+  {
+    "label": "9",
+    "precision": 1.0,
+    "recall": 0.9662921348314607,
+    "f1-score": 0.9828571428571429,
+    "support": 89.0,
+    "accuracy": null
+  },
+  {
+    "label": "accuracy",
+    "precision": null,
+    "recall": null,
+    "f1-score": null,
+    "support": null,
+    "accuracy": 0.959050721265705
+  },
+  {
+    "label": "macro avg",
+    "precision": 0.9589093639157305,
+    "recall": 0.960151058488304,
+    "f1-score": 0.9588310592193332,
+    "support": 2149.0,
+    "accuracy": null
+  },
+  {
+    "label": "weighted avg",
+    "precision": 0.9603544985573661,
+    "recall": 0.959050721265705,
+    "f1-score": 0.9590713165712826,
+    "support": 2149.0,
+    "accuracy": null
+  }
+]
